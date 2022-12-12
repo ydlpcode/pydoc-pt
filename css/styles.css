@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2, h3{color: white;}
+
+ul{
+    column-count: 4;
+    list-style-type: none;
+}
